@@ -8,6 +8,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>hoge</h1>
       <h1>nyowa</h1>
     </div>
   );
