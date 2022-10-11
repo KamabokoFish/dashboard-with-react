@@ -1,15 +1,17 @@
 import React from 'react';
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
 import './App.css';
+import MainDash from './components/MainDash/MainDash';
+import Sidebar from './components/Sidebar/Sidebar';
+import RightSide from './components/RightSide/RightSide';
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <div className="App">
-      <h1>hoge</h1>
-      <h1>nyowa</h1>
+      <div className="AppGlass">
+        <Sidebar />
+        <MainDash />
+        <RightSide />
+      </div>
     </div>
   );
 }
