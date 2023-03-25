@@ -7,7 +7,7 @@ Built with
 - apex-charts
 - framer-motion
 - iconscout
-
+- etc...
 (>ω<)
 
 **Screenshots**
