@@ -13,7 +13,7 @@ Please clone and run
 $ yarn run dev
 ```
 
-Reactを始めたてのころの習作
+Reactを始めたてのころの習作  
 ※4Kサイズ相当のレスポンシブには未対応(当時4kディスプレイを持ってなかったため…)
 
 **Screenshots**
