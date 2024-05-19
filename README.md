@@ -7,7 +7,10 @@ Built with
 - apex-charts
 - framer-motion
 - iconscout
-(>ω<)
+Please clone and run
+```bash
+$ yarn run dev
+```
 
 **Screenshots**
 
